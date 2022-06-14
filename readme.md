@@ -6,9 +6,12 @@ LICENSE: [MIT](./license.md)
 
 ---
 
+Всего несколько команд нужно для базового варианта использования Git для ведения
+истории изменений.
 ### Содержание:
-1. Что-то
-2. [git add](./add.md)
+1. [Основные команды](./command.md)
+2. [.gitignore](./gitignorefile.md)
+3. [Markdown](./Markdown.md)
 
 ---
 
