@@ -1,0 +1,8 @@
+# Наименование шаблона .gitignore на GitHub в ролике не указали! Пришлось ручками набирать...
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
